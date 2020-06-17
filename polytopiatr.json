@@ -615,7 +615,7 @@
   "action.info.reward.resources": "Bu size anında {0} kaynağı sağlayacak",
   "action.info.research": "araştır: {0}.",
 
-  "actionbtn.upgrade": "Şuna yükseltme: {0}",
+  "actionbtn.upgrade": "{0} seviyesine yükselt",
   "actionbtn.remove.building": "Binayı",
   "actionbtn.remove.roads": "Yolları",
 
