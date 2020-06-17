@@ -690,7 +690,7 @@
   "gamestatus.capitals": "Başkent Fethedildi",
   "gamestatus.scores": "Puanlar",
   "gamestatus.ruled": "{0} tarafından hükmedildi",
-  "gamestatus.ruled.you": "Hükmettiniz",
+  "gamestatus.ruled.you": "Siz hükmediyorsunuz",
   "gamestatus.unknown.tribe": "Bilinmeyen kabile",
   "gamestatus.unknown.ruler": "Bilinmeyen hükümdar",
   "gamestatus.score": "puan: {0}",
