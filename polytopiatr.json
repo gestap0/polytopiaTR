@@ -239,7 +239,7 @@
   "building.names.road": "Yol",
   "building.names.customshouse": "Gümrük Dairesi",
   "building.names.gather": "Meyve hasat et",
-  "building.names.farm": "Çiftlik",
+  "building.names.farm": "Ekili Alan",
   "building.names.windmill": "Yel Değirmeni",
   "building.names.fishing": "Balıkçılık",
   "building.names.whalehunting": "Balina Avcılığı",
@@ -324,7 +324,7 @@
   "player.abilities.glide": "süzül",
 
   "resource.names.fruit": "meyve",
-  "resource.names.crop": "mahsul",
+  "resource.names.crop": "tarla",
   "resource.names.fish": "balık",
   "resource.names.whale": "balina",
   "resource.names.game": "vahşi hayvan",
